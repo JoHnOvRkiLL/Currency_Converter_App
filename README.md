@@ -12,7 +12,7 @@ To run this app locally, follow these steps:
 
    ```bash
    git clone https://github.com/JoHnOvRkiLL/Currency_Converter_App.git
-   cd currency_converter
+   cd Currency_Converter_App
    ```
 
 2. **Install dependencies:**
